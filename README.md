@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Sabrina Tang and I am *STUDENT* at UC Irvine. I am excited to learn more about computer science and how I can use Github to supplement my learning. I have interests in web development, design, and software engineering.  
 
+##### Let's get in touch! Here's my [LinkedIn](www.linkedin.com/in/sabrinat162).
 <!--
 **sabrinaaatang/sabrinaaatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
